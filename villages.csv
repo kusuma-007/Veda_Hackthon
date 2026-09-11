@@ -1,0 +1,6 @@
+Village,Pest Risk,Water Risk,Weather Risk,Priority
+Village A,HIGH,MEDIUM,HIGH,URGENT
+Village B,LOW,HIGH,MEDIUM,HIGH
+Village C,MEDIUM,LOW,LOW,NORMAL
+Village D,HIGH,HIGH,MEDIUM,URGENT
+Village E,LOW,MEDIUM,LOW,NORMAL
